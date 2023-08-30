@@ -1,2 +1,3 @@
 # Chatter-Box
 Venez discuter avec moi !
+Je suis pas très sympa ...
